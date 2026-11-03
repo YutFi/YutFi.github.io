@@ -218,8 +218,9 @@ h1,h2,h3{font-family:"Archivo Expanded","Archivo","Inter Tight",sans-serif;font-
   padding:7px 12px;border-radius:7px;border:1px solid var(--edge);color:var(--haze)}
 .card-lt .pill{border-color:var(--edge-lt);color:var(--ink-soft)}
 .pill-hot{background:var(--coral);border-color:var(--coral);color:#12060A;font-weight:600}
-.pill-live{display:inline-flex;align-items:center;gap:8px;background:#0E1424;border-color:#0E1424;color:var(--lime);font-weight:600}
-.pill-live .live{width:6px;height:6px}
+.pill-live{display:inline-flex;align-items:center;gap:8px;background:var(--lime);border-color:var(--lime);color:#0E1424;font-weight:700}
+.pill-live .live{width:6px;height:6px;background:#0E1424;animation:pingDark 2.4s infinite}
+@keyframes pingDark{0%{box-shadow:0 0 0 0 rgba(14,20,36,.55)}70%{box-shadow:0 0 0 7px rgba(14,20,36,0)}100%{box-shadow:0 0 0 0 rgba(14,20,36,0)}}
 .card h3{font-size:var(--fs-h3);letter-spacing:-.04em;margin-bottom:12px}
 .card .lede{font-size:1.09rem;max-width:58ch;color:var(--haze);line-height:1.58}
 .card-lt .lede{color:var(--ink-soft)}
