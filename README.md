@@ -1,6 +1,6 @@
 # Ariff Lutfi — Portfolio
 
-Personal portfolio site for **Ariff Lutfi Bin Shahrim**, a final-year BSc Information Technology (Hons.) student (Big Data) at Universiti Teknologi MARA (UiTM), looking for a data analytics role starting in 2027.
+Personal portfolio site for **Ariff Lutfi Bin Shahrim**, a final-year Bachelor of Information Technology (Hons.) student (Big Data) at Universiti Teknologi MARA (UiTM), looking for a data analytics role starting in 2027.
 
 - **Live site:** https://yutfi.github.io
 - **Source page:** [`index.html`](./index.html)
@@ -12,7 +12,7 @@ The site is one hand-written HTML file. There is no framework, no build step and
 | Section | Contents |
 |---|---|
 | **Hero** | Name, one-line pitch, current status, links to resume and transcript |
-| **Selected work** | Collins Aerospace Malaysia internship tools, the HiveWatch final-year project, and CareTrack (Bronze Medal, iRISE 2025) |
+| **Selected work** | Collins Aerospace Malaysia internship tools, the HiveWatch final-year project, the Government Expenditure (INFRA) dashboard, and CareTrack (Bronze Medal, iRISE 2025) |
 | **Toolkit** | Filterable skills table, with a live `SELECT * FROM toolkit WHERE ...` line that updates as you pick a category |
 | **Beyond coursework** | Committee and organising roles, with certificates and event videos |
 | **Education & certifications** | UiTM, KMNS matriculation, and certificates (Simplilearn, Oracle Academy, UiTM workshop) |
@@ -22,6 +22,7 @@ The site is one hand-written HTML file. There is no framework, no build step and
 
 - **Collins Aerospace Malaysia** — Power BI dashboards and Excel VBA tools built during industrial training in Operations Automation & Analytics (Sep–Dec 2026). These are internal tools, so no screenshots or data are shown.
 - **HiveWatch** — a Power BI dashboard on stingless-bee (Kelulut) colony health for the UiTM Dungun apiary, built from 22,000+ IoT sensor records plus rainfall and harvest data.
+- **Government Expenditure Analytics (INFRA)** — a three-page Power BI dashboard on Development and Operating expenditure datasets.
 - **CareTrack** — a hospital queuing system concept; I was the UI/UX designer on the team.
 
 ## Tech
